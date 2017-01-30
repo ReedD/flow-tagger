@@ -48,6 +48,10 @@
         "nonwords": false
       }
     ],
+    "quotes": [
+        "error",
+        "single"
+    ],
     "strict": [
       "error",
       "global"
