@@ -1,6 +1,6 @@
 {
   "name": "flow-tagger",
-  "version": "0.0.2-beta.0",
+  "version": "0.0.4-beta.0",
   "description": "Git flow inspired tag helper scripts",
   "main": "index.js",
   "scripts": {
